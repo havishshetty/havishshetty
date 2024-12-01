@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋</h1>
-
 <p align="left">I'm a 3rd-year Computer Science undergrad at MIT Manipal, passionate about technology and building impactful solutions.</p>
 
 <h2 align="left">My Tech Stack</h2>
@@ -21,8 +19,8 @@
 
 <h3 align="left">Some of My Interests</h3>
 <ul align="left">
-  <li>Web Development (HTML, CSS, JavaScript, Node.js)</li>
   <li>Mobile App Development (Flutter)</li>
+  <li>Web Development (HTML, CSS, JavaScript, Node.js)</li>
   <li>Machine Learning & AI</li>
   <li>UI/UX Design (Canva)</li>
 </ul>
