@@ -26,5 +26,5 @@
 </ul>
 
 <h3 align="left">Let's Connect!</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/havish-shetty/)
-<p align="left">Feel free to reach out if you want to collaborate on projects, exchange ideas, or just chat about technology!</p>
+<a href="https://www.linkedin.com/in/havish-shetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateekanand3101/" height="30" width="40" /></a>
+<p align="left">Feel free to reach out if you want to collaborate on projects, exchange ideas, or chat about technology!</p>
