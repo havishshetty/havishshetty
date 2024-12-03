@@ -26,4 +26,5 @@
 </ul>
 
 <h3 align="left">Let's Connect!</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/havish-shetty/)
 <p align="left">Feel free to reach out if you want to collaborate on projects, exchange ideas, or just chat about technology!</p>
