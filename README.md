@@ -1,4 +1,4 @@
-<p align="left">I'm a 3rd-year Computer Science undergrad at MIT Manipal, passionate about technology and building impactful solutions.</p>
+<p align="left">I'm a Computer Science undergrad at MIT Manipal, passionate about technology and building impactful solutions.</p>
 
 <h2 align="left">My Tech Stack</h2>
 
